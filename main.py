@@ -341,8 +341,8 @@ if __name__ == "__main__":
         #school
         #views
         elif 'who are you' in query:
-            speak('I am Jarvis')
-            print('I am Jarvis')
+            speak('I am Friday')
+            print('I am Friday')
         
         elif 'who is vanshaj' in query:
             speak('Vanshaj is the most genius person in the galaxy.. oh sorry in the universe')
